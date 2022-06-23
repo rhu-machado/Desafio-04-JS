@@ -29,3 +29,10 @@ function gosto(f,m){
 }
 gosto(filme, musica)
 
+
+function triplo(a){
+    return a*3
+}
+
+console.log(triplo(12))
+
